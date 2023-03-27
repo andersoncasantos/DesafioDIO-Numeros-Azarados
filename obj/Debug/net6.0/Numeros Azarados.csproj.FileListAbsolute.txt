@@ -1,0 +1,15 @@
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\bin\Debug\net6.0\Numeros Azarados.exe
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\bin\Debug\net6.0\Numeros Azarados.deps.json
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\bin\Debug\net6.0\Numeros Azarados.runtimeconfig.json
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\bin\Debug\net6.0\Numeros Azarados.dll
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\bin\Debug\net6.0\Numeros Azarados.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\Numeros Azarados.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\Numeros Azarados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\Numeros Azarados.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\Numeros Azarados.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\Numeros Azarados.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\Numeros Azarados.dll
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\refint\Numeros Azarados.dll
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\Numeros Azarados.pdb
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\Numeros Azarados.genruntimeconfig.cache
+C:\Users\ander\OneDrive\Área de Trabalho\BootCamp Dio\Módulo III\Desafio C# Números Azarados\Numeros Azarados\obj\Debug\net6.0\ref\Numeros Azarados.dll
